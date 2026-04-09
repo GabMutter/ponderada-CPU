@@ -187,4 +187,5 @@ E produz como saída:
 
 ## Vídeo de Demonstração
 
-Clique [aqui](fazendo) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
+Clique [aqui](https://youtu.be/h7Jjcq0O3Tc) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
+Acabei não finalizando o video direito pois apertei pra encerrar a gravação ao invés de encerrar a simulação no digital, mas já estava no final do video eu só ia finalizar e me despedir, então ta de boa. 
