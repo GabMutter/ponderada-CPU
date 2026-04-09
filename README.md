@@ -182,3 +182,9 @@ E produz como saída:
 - **Mq** — registrador MQ (8 bits)
 
 > Para detalhes completos da ALU (operações suportadas, entradas e saídas internas), consulte a documentação da ponderada da ALU.
+
+---
+
+## Vídeo de Demonstração
+
+Clique [aqui](fazendo) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
